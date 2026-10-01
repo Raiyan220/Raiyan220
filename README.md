@@ -29,11 +29,9 @@
 
 - **[Project-U](https://github.com/Raiyan220/Project-U)**: Original repository in TypeScript, 0 star(s), recently updated.
 
-- **[CSE447-SecureVault](https://github.com/Raiyan220/CSE447-SecureVault)**: Original repository in TypeScript, 0 star(s), recently updated.
+- **[project-uniflow](https://github.com/Raiyan220/project-uniflow)**: Original repository in TypeScript, 0 star(s), recently updated.
 
 - **[vsfs-metadata-journaling](https://github.com/Raiyan220/vsfs-metadata-journaling)**: Original repository in C, 0 star(s), recently updated.
-
-- **[Canteen-project](https://github.com/Raiyan220/Canteen-project)**: My GitHub Profile Showcase
 
 
 ---
