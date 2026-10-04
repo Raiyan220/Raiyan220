@@ -11,7 +11,7 @@
 
 | `> ~/md-al-raiyan/sys_info.sh` | `> ~/workspace/live-feed` |
 | :--- | :---: |
-| 🎓 **Education:** Computer Science & Engineering undergrad at **BRAC University**.<br><br>💻 **Development:** Full-stack engineer focusing on scalable architectures using the MERN/PERN stack.<br><br>⚙️ **Systems:** Passionate about diving into the metal—exploring OS mechanics, CPU scheduling, and low-level **C / Assembly** (x86/RISC-V).<br><br>🌌 **Frontiers:** Exploring waste-to-energy classification models, studying Type Ia Supernovae, and gaming in the verse (Star Citizen). | <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="250" alt="Anime Developer Animation" /> |
+| 🎓 **Education:** Computer Science & Engineering undergrad at **BRAC University**.<br><br>💻 **Development:** Full-stack engineer focusing on scalable architectures using the MERN/PERN stack.<br><br>⚙️ **Systems:** Passionate about diving into the metal—exploring OS mechanics, CPU scheduling, and low-level **C / Assembly** (x86/RISC-V).<br><br>🌌 **Frontiers:** Exploring waste-to-energy classification models, studying Type Ia Supernovae, and gaming in the verse (Star Citizen). | <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" alt="Tech Developer Animation" /> |
 
 <div align="center">
 <br/>
