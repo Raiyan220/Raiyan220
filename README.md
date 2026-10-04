@@ -9,36 +9,34 @@
 
 </div>
 
-### `> ~/md-al-raiyan/sys_info.sh`
+<!-- Pure HTML Table to force the side-by-side layout without breaking -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3><code>&gt; ~/md-al-raiyan/sys_info.sh</code></h3>
+      <ul style="line-height: 1.8; font-size: 15px;">
+        <li>🎓 <b>Education:</b> Computer Science & Engineering undergrad at <b>BRAC University</b>.</li><br/>
+        <li>💻 <b>Development:</b> Full-stack engineer focusing on scalable architectures using the MERN/PERN stack.</li><br/>
+        <li>⚙️ <b>Systems:</b> Passionate about diving into the metal—exploring OS mechanics, CPU scheduling, and low-level <b>C / Assembly</b> (x86/RISC-V).</li><br/>
+        <li>🌌 <b>Frontiers:</b> Exploring waste-to-energy classification models, studying Type Ia Supernovae, and gaming in the verse (Star Citizen).</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.tenor.com/1-qA2L6GvHAAAAAC/anime-typing.gif" width="300" alt="Anime Coding Animation" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-<div>
-  <!-- Right-aligned image float. Replace the src link below with your own GitHub-uploaded image link if needed -->
-  <img align="right" src="https://media.tenor.com/GfSXjD4iC3AAAAAC/anime-coding.gif" width="300" style="border-radius: 10px;" alt="Anime Coding Animation" />
-  
-  <ul style="font-size: 15px; line-height: 1.6;">
-    <li>🎓 <strong>Education:</strong> Computer Science & Engineering undergrad at <strong>BRAC University</strong>.</li>
-    <br/>
-    <li>💻 <strong>Development:</strong> Full-stack engineer focusing on scalable architectures using the MERN/PERN stack.</li>
-    <br/>
-    <li>⚙️ <strong>Systems:</strong> Passionate about diving into the metal—exploring OS mechanics, CPU scheduling, and low-level <strong>C / Assembly</strong> (x86/RISC-V).</li>
-    <br/>
-    <li>🌌 <strong>Frontiers:</strong> Exploring waste-to-energy classification models, studying Type Ia Supernovae, and gaming in the verse (Star Citizen).</li>
-  </ul>
-</div>
-
-<!-- Clears the float so the music section drops cleanly below -->
-<br clear="both"/>
 <br/>
 
 <div align="center">
 
-<!-- Musical Vibe: Squid Game Theme -->
+<!-- Musical Vibe: Squid Game Theme & Audio Visualizer -->
 <a href="https://open.spotify.com/search/Fly%20Me%20To%20The%20Moon%20Squid%20Game" target="_blank">
   <img src="https://img.shields.io/badge/🎵_Vibe_Check-Fly_Me_To_The_Moon_(Squid_Game)-000000?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Now Playing: Fly Me to the Moon (Squid Game)" />
 </a>
 <br/>
 <a href="https://open.spotify.com/search/Fly%20Me%20To%20The%20Moon%20Squid%20Game" target="_blank">
-  <!-- Highly stable GitHub-friendly audio visualizer -->
   <img src="https://media.tenor.com/H1G58QyFjXIAAAAC/music-equilizer.gif" width="130" alt="Audio Visualizer" />
 </a>
 <br/>
