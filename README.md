@@ -12,8 +12,8 @@
 ### `> ~/md-al-raiyan/sys_info.sh`
 
 <div>
-  <!-- Right-aligned image float ensures it never breaks inside a table -->
-  <img align="right" src="https://media.giphy.com/media/qgQUggCGvnPuo/giphy.gif" width="300" style="border-radius: 10px;" alt="Anime Coding Animation" />
+  <!-- Right-aligned image float. Replace the src link below with your own GitHub-uploaded image link if needed -->
+  <img align="right" src="https://media.tenor.com/GfSXjD4iC3AAAAAC/anime-coding.gif" width="300" style="border-radius: 10px;" alt="Anime Coding Animation" />
   
   <ul style="font-size: 15px; line-height: 1.6;">
     <li>🎓 <strong>Education:</strong> Computer Science & Engineering undergrad at <strong>BRAC University</strong>.</li>
@@ -38,8 +38,8 @@
 </a>
 <br/>
 <a href="https://open.spotify.com/search/Fly%20Me%20To%20The%20Moon%20Squid%20Game" target="_blank">
-  <!-- Swapped Pinterest link to a GitHub-safe Giphy EQ animation -->
-  <img src="https://media.giphy.com/media/13v6Z8zK2R4kF2/giphy.gif" width="130" alt="Audio Visualizer" />
+  <!-- Highly stable GitHub-friendly audio visualizer -->
+  <img src="https://media.tenor.com/H1G58QyFjXIAAAAC/music-equilizer.gif" width="130" alt="Audio Visualizer" />
 </a>
 <br/>
 <code>"In other words, hold my hand..." 🔺 🟥 ⭕</code>
