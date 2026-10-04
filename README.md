@@ -9,35 +9,21 @@
 
 </div>
 
-<!-- Pure HTML Table to force the side-by-side layout without breaking -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3><code>&gt; ~/md-al-raiyan/sys_info.sh</code></h3>
-      <ul style="line-height: 1.8; font-size: 15px;">
-        <li>🎓 <b>Education:</b> Computer Science & Engineering undergrad at <b>BRAC University</b>.</li><br/>
-        <li>💻 <b>Development:</b> Full-stack engineer focusing on scalable architectures using the MERN/PERN stack.</li><br/>
-        <li>⚙️ <b>Systems:</b> Passionate about diving into the metal—exploring OS mechanics, CPU scheduling, and low-level <b>C / Assembly</b> (x86/RISC-V).</li><br/>
-        <li>🌌 <b>Frontiers:</b> Exploring waste-to-energy classification models, studying Type Ia Supernovae, and gaming in the verse (Star Citizen).</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.tenor.com/1-qA2L6GvHAAAAAC/anime-typing.gif" width="300" alt="Anime Coding Animation" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
-
-<br/>
+| `> ~/md-al-raiyan/sys_info.sh` | `> ~/workspace/live-feed` |
+| :--- | :---: |
+| 🎓 **Education:** Computer Science & Engineering undergrad at **BRAC University**.<br><br>💻 **Development:** Full-stack engineer focusing on scalable architectures using the MERN/PERN stack.<br><br>⚙️ **Systems:** Passionate about diving into the metal—exploring OS mechanics, CPU scheduling, and low-level **C / Assembly** (x86/RISC-V).<br><br>🌌 **Frontiers:** Exploring waste-to-energy classification models, studying Type Ia Supernovae, and gaming in the verse (Star Citizen). | <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="250" alt="Anime Developer Animation" /> |
 
 <div align="center">
+<br/>
 
-<!-- Musical Vibe: Squid Game Theme & Audio Visualizer -->
+<!-- Musical Vibe: Squid Game Theme -->
 <a href="https://open.spotify.com/search/Fly%20Me%20To%20The%20Moon%20Squid%20Game" target="_blank">
   <img src="https://img.shields.io/badge/🎵_Vibe_Check-Fly_Me_To_The_Moon_(Squid_Game)-000000?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Now Playing: Fly Me to the Moon (Squid Game)" />
 </a>
 <br/>
 <a href="https://open.spotify.com/search/Fly%20Me%20To%20The%20Moon%20Squid%20Game" target="_blank">
-  <img src="https://media.tenor.com/H1G58QyFjXIAAAAC/music-equilizer.gif" width="130" alt="Audio Visualizer" />
+  <!-- Reliable animated equalizer hosted directly on GitHub -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/music.gif" width="130" alt="Audio Visualizer" />
 </a>
 <br/>
 <code>"In other words, hold my hand..." 🔺 🟥 ⭕</code>
