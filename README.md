@@ -1,59 +1,72 @@
 <div align="center">
 
-# Hi there, I'm Md. Al Raiyan 👋
+<h1 align="center">GREETINGS, I'M MD. AL RAIYAN.</h1>
 
 <!-- Typing SVG Animation -->
 <a href="https://github.com/Raiyan220">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=CSE+Undergrad+%40+Brac+University;Full-Stack+Web+Developer;Systems+Architecture+%26+OS+Enthusiast;Time-Domain+%26+Astrophysics+Geek" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+%40+BRAC+University;Full-Stack+Web+Developer+(MERN%2FPERN);Systems+Architecture+%26+OS+Enthusiast;Time-Domain+%26+Astrophysics+Geek" alt="Typing Animation" />
 </a>
+<br/><br/>
 
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none; padding-right: 20px; font-size: 15px; line-height: 1.6;">
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li>• I'm a Computer Science & Engineering undergrad at <strong>BRAC University</strong>.</li>
+        <br>
+        <li>• Enthusiastic about full-stack web development with a focus on scalable architectures using the MERN/PERN stack.</li>
+        <br>
+        <li>• Passionate about diving into the metal—exploring OS mechanics, CPU scheduling, and low-level programming in C and Assembly (x86/RISC-V).</li>
+        <br>
+        <li>• Always exploring new frontiers: whether it's researching waste-to-energy classification models, studying Type Ia Supernovae, or gaming in the verse (Star Citizen).</li>
+      </ul>
+    </td>
+    <td width="40%" style="border: none; text-align: center;">
+      <!-- Anime Coding Animation -->
+      <img src="https://i.pinimg.com/originals/27/a3/9f/27a39f6048d6ed655f46cfec1d3101c1.gif" width="320" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Anime Coding Animation" />
+    </td>
+  </tr>
+</table>
+
+<!-- Musical Vibe: Squid Game Theme -->
 <br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Raiyan220?style=for-the-badge&label=Followers&color=38BDF8)](https://github.com/Raiyan220)
-[![Stars](https://img.shields.io/github/stars/Raiyan220?style=for-the-badge&label=Stars&color=10B981)](https://github.com/Raiyan220)
-
-*Building scalable architectures, diving into low-level systems, and exploring the cosmos.*
-
-<br/>
-
-<!-- Musical Animation & Vibe -->
-<a href="https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25" target="_blank">
-  <img src="https://img.shields.io/badge/🎧_Now_Playing-Fly_Me_To_The_Moon_--_Frank_Sinatra-000000?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Now Playing: Fly Me to the Moon" />
+<a href="https://open.spotify.com/search/Fly%20Me%20To%20The%20Moon%20Squid%20Game" target="_blank">
+  <img src="https://img.shields.io/badge/🎧_Now_Playing-Fly_Me_To_The_Moon_(Squid_Game_Cover)-000000?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Now Playing: Fly Me to the Moon (Squid Game)" />
 </a>
 <br/>
-<a href="https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25" target="_blank">
-  <img src="https://i.pinimg.com/originals/d7/a7/60/d7a760565de7d8d2b781a7fc97eb81f8.gif" width="150" alt="Audio Visualizer" />
+<a href="https://open.spotify.com/search/Fly%20Me%20To%20The%20Moon%20Squid%20Game" target="_blank">
+  <img src="https://i.pinimg.com/originals/d7/a7/60/d7a760565de7d8d2b781a7fc97eb81f8.gif" width="130" alt="Audio Visualizer" />
 </a>
 <br/>
-<sub><i>"In other words, hold my hand..."</i> 🚀✨</sub>
+<sub><i>"In other words, hold my hand..."</i> 🔺 🟥 ⭕</sub>
+<br/><br/>
 
-</div>
+### 🌐 Socials
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<br/><br/>
 
 ---
 
-### 🚀 About Me
-
-- 🎓 **Academics:** Studying Computer Science & Engineering, heavily focused on computer architecture, operating systems, and cryptography.
-- 💻 **Development:** Building robust full-stack applications using the **MERN/PERN stack** (React, Next.js, Node.js, PostgreSQL). 
-- ⚙️ **Systems:** Passionate about the metal—writing and debugging in **C** and **x86/RISC-V Assembly**, and analyzing CPU scheduling and cache efficiency.
-- 🌌 **Beyond the Screen:** Completed coursework in astronomy/astrophysics. Whether I'm researching waste-to-energy image classification, watching Type Ia Supernovae, or gaming (Star Citizen, Assassin's Creed), I'm always exploring new frontiers.
-
----
-
-### 🛠️ Core Technical Competencies
+### 💻 Tech Stack
 
 <div align="center">
 
-**Languages**
+**Core Languages**
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Assembly-4D4D4D?style=flat-square&logo=assembly&logoColor=white" />
+<img src="https://img.shields.io/badge/Assembly_(x86%2FRISC--V)-4D4D4D?style=flat-square&logo=assembly&logoColor=white" />
 
-**Web & Databases**
+<br/>
+**Frameworks & Databases**
 <br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -64,7 +77,8 @@
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 
-**Tools & Workflows**
+<br/>
+**Tools & Workflow**
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -77,18 +91,16 @@
 
 ### 📂 Featured Projects
 
-| Project & Repository | Description | Technologies |
+| Project / Repository | Description | Technologies |
 | :--- | :--- | :--- |
-| **[Shohojogi](#)** | A service booking application featuring secure identity verification and live face-matching logic. | `React` `Node.js` `PostgreSQL` |
+| **[Shohojogi](#)** | Service booking platform featuring secure identity verification and live face-matching logic. | `TypeScript` `React` `PostgreSQL` |
 | **[vsfs-metadata-journaling](https://github.com/Raiyan220/vsfs-metadata-journaling)** | Low-level systems implementation focusing on file system architecture and journaling. | `C` |
 | **[Project-U](https://github.com/Raiyan220/Project-U)** | Scalable full-stack application architecture built for high performance. | `TypeScript` `Web` |
-| **[project-uniflow](https://github.com/Raiyan220/project-uniflow)** | Developer tool focused on optimizing and streamlining development workflows. | `TypeScript` |
+| **[project-uniflow](https://github.com/Raiyan220/project-uniflow)** | Developer tool focused on optimizing and streamlining modern workflows. | `TypeScript` |
 
 ---
 
 ### 📊 GitHub Activity & Metrics
-
-<div align="center">
 
 <!-- Animated Contribution Snake -->
 <picture>
@@ -104,6 +116,6 @@
 
 <br/><br/>
 
-<sub>Generated & optimized with <a href="https://github.com/Raiyan220">GitHub Portfolio Engineer</a> • Crafted with code, coffee, and Sinatra ☕🎵</sub>
+<sub>Crafted with code, coffee, and a bit of astrophysics. ☕ 🚀</sub>
 
 </div>
