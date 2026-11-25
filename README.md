@@ -18,9 +18,21 @@
 
 <br/>
 
-| `~/raiyan/about.md` | `~/workspace/terminal` |
+| About Me | Workspace |
 | :--- | :---: |
-| 🎓 I'm a final-year **Computer Science & Engineering** student at **BRAC University**.<br><br>💻 Enthusiastic about **full-stack web development** and learning how to build clean, practical **UI/UX**.<br><br>⚙️ Interested in **systems programming** (`C`, OS basics) and **applied security** through university coursework and hands-on projects.<br><br>🌱 Still learning every day — excited to explore **human-centered software design**, **AI**, and grow by building real projects.<br><br>🎮 Outside of coding, I'm into gaming and clean dark-themed setups. | <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="290" alt="Dark Terminal Code Animation" /> |
+| 🎓 Final-year **Computer Science & Engineering** student at **BRAC University**.<br><br>💻 Enthusiastic about **full-stack web development** and learning how to build clean, practical **UI/UX**.<br><br>⚙️ Interested in **systems programming** (`C`, OS basics) and **applied security** through university coursework and hands-on projects.<br><br>🌱 Still learning every day — excited to explore **human-centered software design**, **AI**, and grow by building real projects.<br><br>🎮 Outside of coding, I enjoy gaming and dark-themed setups. | <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="290" alt="Dark Terminal Code Animation" /> |
+
+---
+
+### 📂 Projects I've Built & Worked On
+
+| Project | What It Does | Tech Used | Links |
+| :--- | :--- | :--- | :---: |
+| **CIPHER** | Course project for an encrypted messaging & post web app (`RSA`, `ECC`, `CBC-MAC`, `TOTP` 2FA) with accessible display modes and clear verification helpers. | `Python` `Flask` `PostgreSQL` | [Repo](https://github.com/Raiyan220/CSE447-SecureVault) · [Live](https://cipher-app-4edd.onrender.com) |
+| **VSFS Metadata Journaling** | Operating systems (`CSE321`) project implementing a metadata journal and replay checker in `C` for a simple file system disk image. | `C` `POSIX` `OS` | [Repo](https://github.com/Raiyan220/vsfs-metadata-journaling) |
+| **UniFlow** | Student helper web app for browsing course sections, tracking open seats, finding free rooms, planning routines, and calculating CGPA. | `TypeScript` `NestJS` `React` | [Repo](https://github.com/Raiyan220/Project-U) |
+| **Shohojogi** | Team full-stack project for connecting users with local technicians and service workers. | `JavaScript` `React` `Node.js` | [Repo](https://github.com/Raiyan220/Shohojogi) · [Live](https://shohojogi-beta.vercel.app/) |
+| **Smart Digital Canteen** | MERN stack MVP for digital canteen menu browsing, guest/user ordering, and basic admin management. | `JavaScript` `Express` `MongoDB` | [Repo](https://github.com/Raiyan220/Canteen-project) |
 
 ---
 
@@ -29,22 +41,10 @@
 ### 🛠️ Technologies I Work With
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,python,react,nextjs,nestjs,nodejs,flask,postgres,prisma,mongodb,git,linux&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,python,react,nextjs,nestjs,nodejs,flask,postgres,prisma,mongodb,git,linux&theme=dark&perline=8" alt="Tech Stack Icons" />
 </a>
 
 </div>
-
----
-
-### 📂 Projects I've Built & Worked On
-
-| Project | What It Does | Tech Used |
-| :--- | :--- | :--- |
-| **[CIPHER (`CSE447-SecureVault`)](https://github.com/Raiyan220/CSE447-SecureVault)** · [Live App](https://cipher-app-4edd.onrender.com) | Course project for an encrypted messaging & post web app (`RSA`, `ECC`, `CBC-MAC`, `TOTP` 2FA) with accessible display modes and clear verification helpers. | `Python` `Flask` `PostgreSQL` |
-| **[VSFS Metadata Journaling](https://github.com/Raiyan220/vsfs-metadata-journaling)** | Operating systems (`CSE321`) project implementing a metadata journal and replay checker in `C` for a simple file system disk image. | `C` `POSIX` `OS` |
-| **[UniFlow (`Project-U`)](https://github.com/Raiyan220/Project-U)** | Student helper web app for browsing course sections, tracking open seats, finding free rooms, planning routines, and calculating CGPA. | `TypeScript` `NestJS` `React` `Prisma` |
-| **[Shohojogi](https://github.com/Raiyan220/Shohojogi)** · [Live App](https://shohojogi-beta.vercel.app/) | Team full-stack project for connecting users with local technicians and service workers. | `JavaScript` `React` `Node.js` |
-| **[Smart Digital Canteen (`Canteen-project`)](https://github.com/Raiyan220/Canteen-project)** | MERN stack MVP for digital canteen menu browsing, guest/user ordering, and basic admin management. | `JavaScript` `Express` `React` `MongoDB` |
 
 ---
 
@@ -55,9 +55,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Raiyan220&show_icons=true&bg_color=0d090f&title_color=ff2e63&icon_color=ff2e63&text_color=e4e4e7&border_color=3f1421&count_private=true&include_all_commits=true" alt="Raiyan220 GitHub Stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiyan220&layout=compact&bg_color=0d090f&title_color=ff2e63&text_color=e4e4e7&border_color=3f1421" alt="Raiyan220 Top Languages" height="165" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Raiyan220&background=0d090f&border=3f1421&stroke=3f1421&ring=ff2e63&fire=ff2e63&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff2e63&sideLabels=fda4af&dates=a1a1aa" alt="Raiyan220 Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=Raiyan220&background=0d090f&border=3f1421&stroke=3f1421&ring=ff2e63&fire=ff2e63&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff2e63&sideLabels=fda4af&dates=a1a1aa" alt="Raiyan220 Streak Stats" width="440" />
 
 <br/><br/>
 
