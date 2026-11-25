@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-md--al--raiyan-e11d48?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-al-raiyan-337444279/)
 [![GitHub](https://img.shields.io/badge/GitHub-Raiyan220-18181b?style=for-the-badge&logo=github&logoColor=ff2e63)](https://github.com/Raiyan220)
 [![Live App](https://img.shields.io/badge/Live_Project-CIPHER-ff2e63?style=for-the-badge&logo=render&logoColor=white)](https://cipher-app-4edd.onrender.com)
+[![Live App](https://img.shields.io/badge/Live_Project-CrimsonBite-dc2626?style=for-the-badge&logo=render&logoColor=white)](https://crimsonbite-smart-canteen.onrender.com)
 
 </div>
 
@@ -32,7 +33,7 @@
 | **VSFS Metadata Journaling** | Operating systems (`CSE321`) project implementing a metadata journal and replay checker in `C` for a simple file system disk image. | `C` `POSIX` `OS` | [Repo](https://github.com/Raiyan220/vsfs-metadata-journaling) |
 | **UniFlow** | Student helper web app for browsing course sections, tracking open seats, finding free rooms, planning routines, and calculating CGPA. | `TypeScript` `NestJS` `React` | [Repo](https://github.com/Raiyan220/Project-U) |
 | **Shohojogi** | Team full-stack project for connecting users with local technicians and service workers. | `JavaScript` `React` `Node.js` | [Repo](https://github.com/Raiyan220/Shohojogi) Â· [Live](https://shohojogi-beta.vercel.app/) |
-| **Smart Digital Canteen** | MERN stack MVP for digital canteen menu browsing, guest/user ordering, and basic admin management. | `JavaScript` `Express` `MongoDB` | [Repo](https://github.com/Raiyan220/Canteen-project) |
+| **Smart Digital Canteen** | MERN stack MVP for digital canteen menu browsing, guest/user ordering, and basic admin management. | `JavaScript` `Express` `MongoDB` | [Repo](https://github.com/Raiyan220/Canteen-project) · [Live](https://crimsonbite-smart-canteen.onrender.com) |
 
 ---
 
