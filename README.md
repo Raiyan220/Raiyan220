@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Top Crimson Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,55:2a0813,100:e11d48&height=190&section=header&text=Md.%20Al-Raiyan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%40%20BRAC%20University%20%C2%B7%20Full-Stack,%20Systems%20%26%20Security%20Enthusiast&descAlignY=60&descSize=15" width="100%" alt="Md. Al-Raiyan Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,55:2a0813,100:e11d48&height=190&section=header&text=Md.%20Al-Raiyan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20-%20BRAC%20University&descAlignY=60&descSize=16" width="100%" alt="Md. Al-Raiyan Banner" />
 
 <!-- Neon Crimson Typing SVG -->
 <a href="https://github.com/Raiyan220">
