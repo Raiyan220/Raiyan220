@@ -33,7 +33,7 @@
 | **VSFS Metadata Journaling** | Operating systems (`CSE321`) project implementing a metadata journal and replay checker in `C` for a simple file system disk image. | `C` `POSIX` `OS` | [Repo](https://github.com/Raiyan220/vsfs-metadata-journaling) |
 | **UniFlow** | Student helper web app for browsing course sections, tracking open seats, finding free rooms, planning routines, and calculating CGPA. | `TypeScript` `NestJS` `React` | [Repo](https://github.com/Raiyan220/Project-U) |
 | **Shohojogi** | Team full-stack project for connecting users with local technicians and service workers. | `JavaScript` `React` `Node.js` | [Repo](https://github.com/Raiyan220/Shohojogi) · [Live](https://shohojogi-beta.vercel.app/) |
-| **Smart Digital Canteen** | MERN stack MVP for digital canteen menu browsing, guest/user ordering, and basic admin management. | `JavaScript` `Express` `MongoDB` | [Repo](https://github.com/Raiyan220/Canteen-project) � [Live](https://crimsonbite-smart-canteen.onrender.com) |
+| **Smart Digital Canteen** | MERN stack MVP for digital canteen menu browsing, guest/user ordering, and basic admin management. | `JavaScript` `Express` `MongoDB` | [Repo](https://github.com/Raiyan220/Canteen-project) · [Live](https://crimsonbite-smart-canteen.onrender.com) |
 
 ---
 
