@@ -20,7 +20,7 @@
 
 | `~/raiyan/loadout.sh` | `~/workspace/rig` |
 | :--- | :---: |
-| 🎓 **Education:** B.Sc. in Computer Science & Engineering at **BRAC University**.<br><br>⚙️ **Systems & Storage:** Crash-consistent Write-Ahead Logging (`WAL`), OS mechanics, POSIX I/O, and low-level `C` / `x86` / `RISC-V`.<br><br>💻 **Full-Stack Engineering:** Scalable, type-safe platforms using `TypeScript`, `NestJS`, `React`, `Node.js`, `PostgreSQL` (`Prisma`), and `MongoDB`.<br><br>🔐 **Security & Usable UX:** End-to-end encrypted communication (`RSA`, `ECC`, `CBC-MAC`, `TOTP`) built with accessible, transparent verification UX.<br><br>🎮 **Interests & Frontiers:** Competitive gaming, Human-Centered Security, Applied ML, and Computational Astrophysics. | <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="290" alt="Neon Gamer Setup GIF" /> |
+| 🎓 **Education:** B.Sc. in Computer Science & Engineering at **BRAC University**.<br><br>⚙️ **Systems & Storage:** Crash-consistent Write-Ahead Logging (`WAL`), OS mechanics, POSIX I/O, and low-level `C` / `x86` / `RISC-V`.<br><br>💻 **Full-Stack Engineering:** Scalable, type-safe platforms using `TypeScript`, `NestJS`, `React`, `Node.js`, `PostgreSQL` (`Prisma`), and `MongoDB`.<br><br>🔐 **Security & Usable UX:** End-to-end encrypted communication (`RSA`, `ECC`, `CBC-MAC`, `TOTP`) built with accessible, transparent verification UX.<br><br>🎮 **Interests & Frontiers:** Competitive gaming, Human-Centered Security, Applied ML, and Computational Astrophysics. | <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="290" alt="Dark Terminal Code Animation" /> |
 
 ---
 
