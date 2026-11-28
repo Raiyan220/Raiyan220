@@ -21,7 +21,7 @@
 
 | About Me | Workspace |
 | :--- | :---: |
-| 🎓 Final-year **Computer Science & Engineering** student at **BRAC University**.<br><br>💻 Enthusiastic about **full-stack web development** and learning how to build clean, practical **UI/UX**.<br><br>⚙️ Interested in **systems programming** (`C`, OS basics) and **applied security** through university coursework and hands-on projects.<br><br>🌱 Still learning every day — excited to explore **human-centered software design**, **AI**, and grow by building real projects.<br><br>🎮 Outside of coding, I enjoy gaming and dark-themed setups. | <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="290" alt="Dark Terminal Code Animation" /> |
+| 🎓 Final-year **Computer Science & Engineering** student at **BRAC University**.<br><br>💻 Enthusiastic about **full-stack web development** and learning how to build clean, practical **UI/UX**.<br><br>⚙️ Interested in **systems programming** (`C`, OS basics) and **applied security** through university coursework and hands-on projects.<br><br>🌱 Still learning every day — excited to explore **human-centered software design**, **AI**, and grow by building real projects.<br><br>🎮 Outside of coding, I enjoy gaming. | <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="290" alt="Dark Terminal Code Animation" /> |
 
 ---
 
